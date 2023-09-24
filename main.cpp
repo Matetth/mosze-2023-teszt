@@ -22,5 +22,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "a cpp a legjobb" << std::endl; //ezt irtam hozzaa igy jo?
     return 0;
 }
